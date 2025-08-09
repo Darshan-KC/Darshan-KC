@@ -17,7 +17,7 @@ I’m **Darshan KC**, a passionate and intermediate-level **Full Stack Web Devel
 - 🐳 Familiar with containerizing applications using **Docker**
 - 🧪 Skilled in using **Postman** for API testing and debugging
 - 🧠 Always learning — exploring **WebSocket**, **Microservices**, and **DevOps basics**
-- 📬 Open to **remote roles**, **collaborations**, and **internships**
+- 📬 Open to **remote roles**, **collaborations**, and **freelancing**
 
 ---
 
