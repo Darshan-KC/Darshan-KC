@@ -52,7 +52,7 @@ I’m **Darshan KC**, a passionate and intermediate-level **Full Stack Web Devel
 ### 🚀 Projects & Highlights
 
 - 🎟️ **Ticket Booking System (Laravel + MySQL)**  
-  Developed during internship — features user login, booking logic, seat management, and payment simulation.
+  Event ticket booking system — features user login, booking logic, seat management, and payment simulation.
 
 - 📝 **Blog Platform API (Django + PostgreSQL)**  
   A RESTful API supporting CRUD for blog posts, users, and categories with JWT authentication.
